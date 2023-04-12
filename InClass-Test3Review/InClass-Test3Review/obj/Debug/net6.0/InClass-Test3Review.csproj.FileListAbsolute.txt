@@ -1,0 +1,30 @@
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.exe
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.deps.json
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.dll
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.pdb
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.dll
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\refint\InClass-Test3Review.dll
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.pdb
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\ref\InClass-Test3Review.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.exe
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.deps.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.runtimeconfig.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\bin\Debug\net6.0\InClass-Test3Review.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.csproj.AssemblyReference.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.AssemblyInfoInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.AssemblyInfo.cs
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.csproj.CoreCompileInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\refint\InClass-Test3Review.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\InClass-Test3Review.genruntimeconfig.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Test3Review\InClass-Test3Review\InClass-Test3Review\obj\Debug\net6.0\ref\InClass-Test3Review.dll
